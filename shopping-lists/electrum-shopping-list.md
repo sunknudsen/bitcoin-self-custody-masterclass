@@ -3,6 +3,7 @@
 ## Requirements (hardware most people already have)
 
 - [ ] Computer running macOS or Linux
+- [ ] USB flash drive
 
 ## Shopping list
 
